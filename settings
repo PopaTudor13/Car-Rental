@@ -1,0 +1,5 @@
+repo_type database
+repo_file masini
+repo_type2 database
+repo_file2 inchirieri
+run_type fx
